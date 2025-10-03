@@ -1,3 +1,0 @@
-<body>
-    <img src="images/banner.gif" class=banner">
-<body>
